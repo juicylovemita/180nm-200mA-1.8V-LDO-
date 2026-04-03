@@ -20,7 +20,8 @@ $$
 
 Super Source Follower（SSF）超级源随器
 
-![1f6cfb0f2f215ba6b5485c8edcb5ba20](D:\xwechat_files\wxid_y57nz87xnjxu22_6e23\temp\RWTemp\2026-04\afd91e8a4debe2be9497858cea5d80d5\1f6cfb0f2f215ba6b5485c8edcb5ba20.png)
+<img width="403" height="546" alt="1f6cfb0f2f215ba6b5485c8edcb5ba20" src="https://github.com/user-attachments/assets/bf102531-8351-4577-b5e4-591480f35585" />
+
 
 基本结构如上，承担源随器任务的是M1管，而M2管的作用是把M1的输出电阻降低M2的本征增益倍。
 
@@ -30,23 +31,28 @@ Super Source Follower（SSF）超级源随器
 A Transient-Enhanced Low-Quiescent Current Low-Dropout Regulator With Buffer Impedance Attenuation Mohammad Al-Shyoukh, Hoi Lee, Member, IEEE, and Raul Perez, Member, IEEE
 ```
 
-![image-20260403122935995](C:\Users\SleepVVVV_Admin\AppData\Roaming\Typora\typora-user-images\image-20260403122935995.png)
+<img width="1021" height="890" alt="359c1af8bf2c0dacee22838cdde2636d" src="https://github.com/user-attachments/assets/e9d9f041-9c26-4b43-b2a1-0e3daa1f6e94" />
+
 
 此图为文献中的动态偏置。当负载电流增大时，p2电位下降，M24和M25的栅极电位跟着下降，M23电流增大，从而导致M22电流增大，这样M21的电流也增大，所以M21的跨导变大，从而降低p2处的输出电阻，从而提高p2处极点频率。
 
-![image-20260403123326684](C:\Users\SleepVVVV_Admin\AppData\Roaming\Typora\typora-user-images\image-20260403123326684.png)
+<img width="1243" height="757" alt="image-20260403123326684" src="https://github.com/user-attachments/assets/8c70a93c-3707-422a-9219-6332dc54d6b9" />
+
 
 此图为文献中的电流模补偿。与密勒补偿不同，该补偿接在EA的源极处，通过一个共栅极结构来实现补偿。具体原理可以直接看论文。
 
-![image-20260403124011142](C:\Users\SleepVVVV_Admin\AppData\Roaming\Typora\typora-user-images\image-20260403124011142.png)
+<img width="2298" height="968" alt="image-20260403124011142" src="https://github.com/user-attachments/assets/717e470b-b991-4768-9601-6666bfbb3153" />
+
 
 线性调整率
 
-![4872ef5e940e793d5eacfc5c83ea315c](D:\xwechat_files\wxid_y57nz87xnjxu22_6e23\temp\RWTemp\2026-03\afd91e8a4debe2be9497858cea5d80d5\4872ef5e940e793d5eacfc5c83ea315c.png)
+<img width="2506" height="1548" alt="ae0462b3b7d687e757f38a96f1682de9" src="https://github.com/user-attachments/assets/4cd97a5e-39e6-4b22-bb47-0b781a61e8e4" />
+
 
 PSRR
 
-![7cfe4f95d5e246795cc2baa288124355](D:\xwechat_files\wxid_y57nz87xnjxu22_6e23\temp\RWTemp\2026-03\afd91e8a4debe2be9497858cea5d80d5\7cfe4f95d5e246795cc2baa288124355.png)
+<img width="2506" height="1548" alt="05f110d22be59c45733618c950192f1a" src="https://github.com/user-attachments/assets/e2d4e6d7-99d1-4a9c-aeb9-70646e4b7261" />
+
 
 负载调整率的图找不到了。
 
