@@ -27,4 +27,5 @@
 - 补偿网络（Compensation Network）
 - 超级源随器（SSF）
 
-![image-20260403102701600]
+<img width="1368" height="522" alt="image-20260403102701600" src="https://github.com/user-attachments/assets/a273663e-d2d4-4f8c-b9aa-49beace30865" />
+
