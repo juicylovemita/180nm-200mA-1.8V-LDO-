@@ -46,7 +46,8 @@ A Transient-Enhanced Low-Quiescent Current Low-Dropout Regulator With Buffer Imp
 
 线性调整率
 
-<img width="2506" height="1548" alt="ae0462b3b7d687e757f38a96f1682de9" src="https://github.com/user-attachments/assets/4cd97a5e-39e6-4b22-bb47-0b781a61e8e4" />
+<img width="2506" height="1548" alt="4872ef5e940e793d5eacfc5c83ea315c" src="https://github.com/user-attachments/assets/1fe72bf7-2bfb-46bf-bac5-825e4b2f7195" />
+
 
 
 PSRR
