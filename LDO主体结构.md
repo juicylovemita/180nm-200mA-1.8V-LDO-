@@ -52,7 +52,7 @@ A Transient-Enhanced Low-Quiescent Current Low-Dropout Regulator With Buffer Imp
 
 PSRR
 
-<img width="2506" height="1548" alt="05f110d22be59c45733618c950192f1a" src="https://github.com/user-attachments/assets/e2d4e6d7-99d1-4a9c-aeb9-70646e4b7261" />
+<img width="2506" height="1548" alt="7cfe4f95d5e246795cc2baa288124355" src="https://github.com/user-attachments/assets/007f6b74-33b8-4293-b6c2-cbfecf00e63d" />
 
 
 负载调整率的图找不到了。
